@@ -1,0 +1,5 @@
+ CaseGuest: There is no password for this wifi
+ SCWiFi: There is no password for this wifi
+ StormAaron:  Mysons02
+ StormAaron_5G:  Mysons02
+ CaseWireless: There is no password for this wifi
