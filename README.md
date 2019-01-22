@@ -14,12 +14,6 @@ use this application to find the WIFI password
 ![image](https://user-images.githubusercontent.com/44376091/51504212-9f826900-1d94-11e9-9eb3-dd455903843c.png)
 
 
-After clicking export all the wifi to a .txt file
-
-
-![image](https://user-images.githubusercontent.com/44376091/51504220-a8733a80-1d94-11e9-9a8e-f06c12efb9bc.png)
-
-
 ### Prerequisites
 
 To modify my code, you only need basic knowledge of Java and Data Structures(Lists, HashMap, and I/O-BufferedWriter/ BufferedReader),cmd commands and JavaFX ( in this code, the graphics were made mainly from JavaFX Dialog)
