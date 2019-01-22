@@ -13,6 +13,11 @@ use this application to find the WIFI password
 
 ![image](https://user-images.githubusercontent.com/44376091/51504212-9f826900-1d94-11e9-9eb3-dd455903843c.png)
 
+After Clicking Export a .txt file called wifiPass.txt will pop up:
+
+![image](https://user-images.githubusercontent.com/44376091/51505450-4ec23e80-1d9b-11e9-9e27-9a3bef657d0e.png)
+
+
 
 ### Prerequisites
 
@@ -40,7 +45,8 @@ Choose a WIFI that you need to/ or forget the password:
 
 Here I will choose the StormAaron password:
 
-![image](https://user-images.githubusercontent.com/44376091/51504384-904feb00-1d95-11e9-9ef6-ccdd41c80c9a.png)
+![image](https://user-images.githubusercontent.com/44376091/51505466-6e596700-1d9b-11e9-81ad-ed4386fac3da.png)
+
 
 
 Wifi without the password will be informed:
