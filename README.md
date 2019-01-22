@@ -70,7 +70,8 @@ I use the java application to access the cmd and scan for the used wifi using th
 
 You will also be able to export the whole Wifi-Password-HashMap into a .txt file called wifiPassword.txt
 
-![image](https://user-images.githubusercontent.com/44376091/51504643-de192300-1d96-11e9-8e21-ce405af0e104.png)
+![image](https://user-images.githubusercontent.com/44376091/51505341-e2473f80-1d9a-11e9-97ed-f86967488e41.png)
+
 
  
 ## Built With
