@@ -43,9 +43,10 @@ Choose a WIFI that you need to/ or forget the password:
 ![image](https://user-images.githubusercontent.com/44376091/51504368-7910fd80-1d95-11e9-9843-338de3f172cd.png)
 
 
-Here I will choose the StormAaron password:
+Here I will choose the SCWifi password:
 
-![image](https://user-images.githubusercontent.com/44376091/51505466-6e596700-1d9b-11e9-81ad-ed4386fac3da.png)
+![image](https://user-images.githubusercontent.com/44376091/51505567-29820000-1d9c-11e9-8406-fe1127dcc7dc.png)
+
 
 
 
