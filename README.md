@@ -1,9 +1,8 @@
 # Get-the-Saved-WIFI-Password
 Get the wifi password on your computer that you already sign in but does not remember the password 
 
-OR Imagine you go to your friend's house and ask for the wifi password, he is a jerk and won't let you know. He only asks you to give your 
-computer to him and he will type the password in. After the password is being typed, it is already saved on your computer. You then will be able to 
-use this application to find the WIFI password
+
+use this application to find the saved WIFI password
 
 ![image](https://user-images.githubusercontent.com/44376091/51580675-29f0c880-1e7a-11e9-84a7-67d5307fc1d0.png)
 
